@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dJxlb7e7WJCybDJJwGMcxLIST+fGJpttOITC32HJ2bI=",
+  "Source": "StorageService.WebApi",
+  "BasePath": "_content/StorageService.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

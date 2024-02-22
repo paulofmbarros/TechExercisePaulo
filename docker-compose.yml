@@ -1,0 +1,48 @@
+﻿services:
+  zookeeper:
+    image: confluentinc/cp-zookeeper:latest
+    container_name: zookeeper
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+    networks:
+      - kafka-net
+  kafka:
+    image: confluentinc/cp-kafka:latest
+    container_name: kafka
+    depends_on:
+      - zookeeper
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:9092
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      command: sh -c "((sleep 15 && kafka-topics --create --bootstrap-server localhost:9092  --replication-factor 1 --partitions 1 --topic browser-info-collected-topic) &) && /etc/confluent/docker/run ">
+    networks:
+      - kafka-net
+  presentation.webapi:
+    image: presentation.webapi
+    build:
+      context: .
+      dockerfile: PixelService/Presentation.WebApi/Dockerfile
+    ports:
+      - "5000:8080"
+      - "5001:8081"
+    networks:
+      - kafka-net
+
+  storageservice.webapi:
+    image: storageservice.webapi
+    build:
+      context: .
+      dockerfile: StorageService/StorageService.WebApi/Dockerfile
+    networks:
+      - kafka-net
+    ports:
+      - "5100:5100"
+      - "5101:5101"
+networks:
+  kafka-net:
+    driver: bridge
