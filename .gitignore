@@ -359,6 +359,17 @@ fabric.properties
 # Mono auto-generated files
 mono_crash.*
 
+StorageService/Domain/bin/*
+StorageService/Domain/Debug/*
+StorageService/Infrastructure/bin/*
+StorageService/Infrastructure/Debug/*
+StorageService/StorageService.WebApi/Debug/*
+StorageService/StorageService.WebApi/bin/*
+
+PixelService/Domain/bin/*
+PixelService/Domain/Debug/*
+
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
