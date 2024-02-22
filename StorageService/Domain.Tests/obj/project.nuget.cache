@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/zSPMgIPEPU3RVDu7klmWFSTYuBFVZwLcP+/kvFvWmCFyN4MvieDYPkflXg6IGGwEKQ4JyE5X+LAGIf+bxd/mg==",
+  "dgSpecHash": "OrQktuRNOY/1jw0iYpjiX51L362V+5FEyGsPSYnBcKacdth8+lvNCzQ3C2KBrKewf3PPm9eZJ4oyOs9+2k2iKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Domain.Tests\\Domain.Tests.csproj",
+  "projectFilePath": "C:\\Work\\TechExercisePaulo\\StorageService\\Domain.Tests\\Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pbarros\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\pbarros\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",

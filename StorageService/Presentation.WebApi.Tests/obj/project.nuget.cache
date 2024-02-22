@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9fNnEQaCvgXMuTOfrPcHhh/DhYWuh9UsLUQ4XJPe7ctkcz1WWrMSCnaOl9cQRyCZSIcBE1c7Sklwixyt84SraQ==",
+  "dgSpecHash": "2jn9U0NmRUN88gf9F47ZM2cOlaIY+FAiz/12YGptVbLr92AkqEpKOrMLr295WRb1Dj1GRzgglsF9VKNbvZYjUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Presentation.WebApi.Tests\\Presentation.WebApi.Tests.csproj",
+  "projectFilePath": "C:\\Work\\TechExercisePaulo\\StorageService\\Presentation.WebApi.Tests\\Presentation.WebApi.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pbarros\\.nuget\\packages\\autofixture\\5.0.0-preview0008\\autofixture.5.0.0-preview0008.nupkg.sha512",
     "C:\\Users\\pbarros\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

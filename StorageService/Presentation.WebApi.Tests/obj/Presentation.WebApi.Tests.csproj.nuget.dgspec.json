@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Presentation.WebApi.Tests\\Presentation.WebApi.Tests.csproj": {}
+    "C:\\Work\\TechExercisePaulo\\StorageService\\Presentation.WebApi.Tests\\Presentation.WebApi.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Domain\\Domain.csproj": {
+    "C:\\Work\\TechExercisePaulo\\StorageService\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Work\\TechExercisePaulo\\StorageService\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Work\\TechExercisePaulo\\StorageService\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\pbarros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Domain\\obj\\",
+        "outputPath": "C:\\Work\\TechExercisePaulo\\StorageService\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pbarros\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Work\\TechExercisePaulo\\StorageService\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Work\\TechExercisePaulo\\StorageService\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Work\\TechExercisePaulo\\StorageService\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\pbarros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Work\\TechExercisePaulo\\StorageService\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pbarros\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Domain\\Domain.csproj"
+              "C:\\Work\\TechExercisePaulo\\StorageService\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Work\\TechExercisePaulo\\StorageService\\Domain\\Domain.csproj"
               }
             }
           }
@@ -120,14 +120,14 @@
         }
       }
     },
-    "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Presentation.WebApi.Tests\\Presentation.WebApi.Tests.csproj": {
+    "C:\\Work\\TechExercisePaulo\\StorageService\\Presentation.WebApi.Tests\\Presentation.WebApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Presentation.WebApi.Tests\\Presentation.WebApi.Tests.csproj",
+        "projectUniqueName": "C:\\Work\\TechExercisePaulo\\StorageService\\Presentation.WebApi.Tests\\Presentation.WebApi.Tests.csproj",
         "projectName": "Presentation.WebApi.Tests",
-        "projectPath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Presentation.WebApi.Tests\\Presentation.WebApi.Tests.csproj",
+        "projectPath": "C:\\Work\\TechExercisePaulo\\StorageService\\Presentation.WebApi.Tests\\Presentation.WebApi.Tests.csproj",
         "packagesPath": "C:\\Users\\pbarros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Presentation.WebApi.Tests\\obj\\",
+        "outputPath": "C:\\Work\\TechExercisePaulo\\StorageService\\Presentation.WebApi.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pbarros\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,11 +145,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Domain\\Domain.csproj"
+              "C:\\Work\\TechExercisePaulo\\StorageService\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Work\\TechExercisePaulo\\StorageService\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\StorageService.WebApi\\StorageService.WebApi.csproj": {
-                "projectPath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\StorageService.WebApi\\StorageService.WebApi.csproj"
+              "C:\\Work\\TechExercisePaulo\\StorageService\\StorageService.WebApi\\StorageService.WebApi.csproj": {
+                "projectPath": "C:\\Work\\TechExercisePaulo\\StorageService\\StorageService.WebApi\\StorageService.WebApi.csproj"
               }
             }
           }
@@ -217,14 +217,14 @@
         }
       }
     },
-    "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\StorageService.WebApi\\StorageService.WebApi.csproj": {
+    "C:\\Work\\TechExercisePaulo\\StorageService\\StorageService.WebApi\\StorageService.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\StorageService.WebApi\\StorageService.WebApi.csproj",
+        "projectUniqueName": "C:\\Work\\TechExercisePaulo\\StorageService\\StorageService.WebApi\\StorageService.WebApi.csproj",
         "projectName": "StorageService.WebApi",
-        "projectPath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\StorageService.WebApi\\StorageService.WebApi.csproj",
+        "projectPath": "C:\\Work\\TechExercisePaulo\\StorageService\\StorageService.WebApi\\StorageService.WebApi.csproj",
         "packagesPath": "C:\\Users\\pbarros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\StorageService.WebApi\\obj\\",
+        "outputPath": "C:\\Work\\TechExercisePaulo\\StorageService\\StorageService.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pbarros\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -242,11 +242,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Domain\\Domain.csproj"
+              "C:\\Work\\TechExercisePaulo\\StorageService\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Work\\TechExercisePaulo\\StorageService\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\pbarros\\OneDrive - Globalvia\\Desktop\\Solutions\\TechSolution\\StorageService\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Work\\TechExercisePaulo\\StorageService\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Work\\TechExercisePaulo\\StorageService\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
