@@ -366,8 +366,14 @@ StorageService/Infrastructure/Debug/*
 StorageService/StorageService.WebApi/Debug/*
 StorageService/StorageService.WebApi/bin/*
 
+
+
 PixelService/Domain/bin/*
 PixelService/Domain/Debug/*
+PixelService/Infrastructure/bin/*
+PixelService/Infrastructure/Debug/*
+PixelService/Presentation.WebApi/Debug/*
+PixelService/Presentation.WebApi/bin/*
 
 
 # Build results
