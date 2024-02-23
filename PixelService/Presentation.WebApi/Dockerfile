@@ -14,15 +14,6 @@ COPY . .
 WORKDIR "/src/PixelService"
 RUN dotnet build "PixelService.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
-#FROM build AS publish
-#ARG BUILD_CONFIGURATION=Release
-#RUN dotnet publish "PixelService.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
-#
-#FROM base AS final
-#WORKDIR /app
-#COPY --from=publish /app/publish .
-#ENTRYPOINT ["dotnet", "PixelService.dll"]
-
 #Stage 2 - Publish
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app

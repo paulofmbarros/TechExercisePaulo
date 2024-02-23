@@ -27,3 +27,5 @@ _
 /StorageService/StorageService.WebApi/Dockerfile,2\0\202c31309e2d748f2ae9731aed4e40da8e3ae202
 y
 IStorageService/Domain.Tests/obj/Debug/net8.0/Domain.Tests.AssemblyInfo.cs,a\7\a7aa6920c06d46561fce1ad16f64959c1d8b1c22
+q
+AStorageService/StorageService.WebApi/appsettings.Development.json,7\4\748e8dd4c85ffa17e1c3984cc0b7b630e3e141e3
