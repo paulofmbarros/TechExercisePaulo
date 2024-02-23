@@ -13,3 +13,11 @@ cStorageService/Presentation.WebApi.Tests/obj/Debug/net8.0/Presentation.WebApi.T
 cStorageService/Domain.Tests/obj/Debug/net8.0/Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig,d\6\d61a01abcc671629c042ccdb61e55abd174853a4
 _
 /StorageService/StorageService.WebApi/Program.cs,b\9\b9764bcf745b37dd3aa67b631ab55be0ab149b36
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
+ 
+pPixelService/Presentation.WebApi.Tests/Commands/CollectBrowserInfoCommandTests/CollectBrowserIndoCommandTests.cs,5\c\5cd86109c63b51eba4694cf8d66319fd2d9fce99
+@
+TechSolution.sln,d\9\d989b3bc2668e6d68198ed72eae343f1978409ef
+Q
+!PixelService/Domain/Domain.csproj,0\d\0dbd5bf26cb90c58455f2fa135bb565e310c2f29

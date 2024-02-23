@@ -367,6 +367,8 @@ StorageService/Infrastructure/bin/*
 StorageService/Infrastructure/Debug/*
 StorageService/StorageService.WebApi/Debug/*
 StorageService/StorageService.WebApi/bin/*
+StorageService/StorageService.WebApi.Tests/Debug/*
+StorageService/StorageService.WebApi.Tests/bin/*
 
 
 
