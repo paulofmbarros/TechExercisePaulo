@@ -21,3 +21,9 @@ pPixelService/Presentation.WebApi.Tests/Commands/CollectBrowserInfoCommandTests/
 TechSolution.sln,d\9\d989b3bc2668e6d68198ed72eae343f1978409ef
 Q
 !PixelService/Domain/Domain.csproj,0\d\0dbd5bf26cb90c58455f2fa135bb565e310c2f29
+[
++PixelService/Presentation.WebApi/Dockerfile,f\0\f09d4fbc05709c94bfbd2e8ec568606743ab7ae0
+_
+/StorageService/StorageService.WebApi/Dockerfile,2\0\202c31309e2d748f2ae9731aed4e40da8e3ae202
+y
+IStorageService/Domain.Tests/obj/Debug/net8.0/Domain.Tests.AssemblyInfo.cs,a\7\a7aa6920c06d46561fce1ad16f64959c1d8b1c22
