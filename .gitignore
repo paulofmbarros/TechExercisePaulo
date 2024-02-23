@@ -360,6 +360,8 @@ fabric.properties
 mono_crash.*
 
 StorageService/Domain/bin/*
+StorageService/Domain.Tests/bin/*
+StorageService/Domain.Tests/Debug/*
 StorageService/Domain/Debug/*
 StorageService/Infrastructure/bin/*
 StorageService/Infrastructure/Debug/*
@@ -373,6 +375,8 @@ PixelService/Domain/Debug/*
 PixelService/Infrastructure/bin/*
 PixelService/Infrastructure/Debug/*
 PixelService/Presentation.WebApi/Debug/*
+PixelService/Presentation.WebApi.Tests/Debug/*
+PixelService/Presentation.WebApi.Tests/bin/*
 PixelService/Presentation.WebApi/bin/*
 
 
